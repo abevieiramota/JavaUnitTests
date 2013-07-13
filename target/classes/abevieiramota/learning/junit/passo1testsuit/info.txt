@@ -1,1 +1,0 @@
-Fonte: https://github.com/junit-team/junit/wiki/Aggregating-tests-in-suites
